@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">Aimsi</string>
+    
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string><string name="RbtnImsi">汉字一</string>
+    <string name="RtxtImsi">IMSI_IMEI</string>
+</resources>
